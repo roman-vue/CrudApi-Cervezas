@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PC SONEVIEW AMD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PC SONEVIEW AMD\\.nuget\\packages"
+    ]
+  }
+}
